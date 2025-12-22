@@ -1,0 +1,9 @@
+{
+	"name": "adf-vikkuproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b9159d96-cb99-4721-b977-3591ef8c5e6f",
+		"tenantId": "7f168f1f-a688-41b7-9eac-45a11d0c12fa"
+	}
+}
